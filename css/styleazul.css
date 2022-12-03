@@ -18,6 +18,11 @@
     left: 15%;
 }
 #tituloazul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#tituloazul{
     font-family: 'Paytone One', sans-serif;
     color: #3a383b;
     font-size: 40px;
@@ -28,7 +33,11 @@
     left: 40%;
 }
 
-
+.subtituloazul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
 .subtituloazul{
     color: #3a383b;
     font-size: 30px;
